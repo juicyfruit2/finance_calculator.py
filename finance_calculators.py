@@ -1,5 +1,7 @@
 # Created a program that allows user to access 2 different calculators 
 
+Enjoy!
+
 # inserted import math function as instructed 
 import math 
 
